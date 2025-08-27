@@ -67,3 +67,9 @@ Create an Entity-Relationship (ER) diagram based on the Airbnb database specific
 - One Property can receive many Reviews
 - One User can write many Reviews
 - Users can send and receive many Messages (via Message entity)
+
+
+## ER Diagram
+
+![Airbnb Database ERD](DATABASE.png)
+
